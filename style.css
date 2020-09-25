@@ -1,0 +1,26 @@
+body{
+	background-color: #4bd6c4;
+	text-align: center;
+}
+
+h1{
+   font-family: 'Sacramento', cursive;
+}
+
+h3{
+   font-family: 'Sacramento', cursive;
+}
+
+.topcloud{
+	padding-top: 20px;
+	padding-left: 300px;
+}
+
+.bottomcloud{
+	padding-top:  20px;
+	padding-right: 300px;
+}
+
+button{
+	background-color: #03cafc;
+}
